@@ -1,0 +1,28 @@
+p {
+    text-align: justify;
+}
+
+.footer-text {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+.edit {
+    padding: 10%;
+    text-align: right;
+  }
+
+  .game {
+    text-align: right;
+  }
+
+  .food{
+    text-align: right;
+    padding: 2%;
+  }
+
+  .black{
+    padding: 5%;
+    text-align: right;
+  }
